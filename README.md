@@ -1,0 +1,8 @@
+- 👋 Hi, my name is Guillermo A.V! I am currently working in the Film Industry as a Motion Capture Technician. 
+- I would like to one day be able to myself utilize code as a part of the bridge between art and technology. 
+- 👀 I’m interested in 3D art as I am also a Texturing Artist. I have knowledge of software such as Maya, Substance Painter, Z-Brush, etc.
+- 🌱 I’m currently learning Python on a daily-basis. I hope to share any tool I make to eventually help artists in the industry do things more efficiently.
+- 💞️ I’m looking to collaborate on any sort of project that can teach me something new! Knowledge is power to improve my own skills.
+- 📫 How to reach me:
+    - Email: guillermo.aguero.j@gmail.com
+    - LinkeDin : https://www.linkedin.com/in/guillermo-aguero-vivas
